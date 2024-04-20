@@ -15,8 +15,6 @@ Then change into the project directory: cd bookstore-app
 Install the necessary packages: npm install 
 Start the application: npm run dev
 
-Access the application at: [http://localhost:3000](http://localhost:3000).
-
 ## Usage
 
 After launching the Bookstore App, you can:
